@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working in **DXC Technology** on **Caixabank Projects**.
+- 🔭 I’m currently working at **DXC Technology** on **Caixabank Projects**.
 
 
 ## 🌐 Socials:
