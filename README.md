@@ -70,34 +70,6 @@ Currently focused on deepening my knowledge of **Software Architecture, System D
 
 ---
 
-## 🚀 Featured Projects
-
-### [Software Engineering Roadmap](https://github.com/conaruisam/software-engineering-roadmap)
-
-A structured learning roadmap focused on consolidating advanced backend engineering knowledge and preparing for Senior Software Engineer responsibilities.
-
-Main areas:
-
-- JVM internals and Spring Boot
-- Database performance and optimization
-- Spring Security and OAuth2
-- Apache Kafka and distributed systems
-- Production engineering and observability
-- System Design and technical interviews
-
-### [Trato Justo](https://github.com/conaruisam/trato-justo)
-
-An expense-sharing application inspired by Tricount, developed with Java and Spring Boot.
-
-The main goal is to apply and demonstrate software engineering principles, particularly:
-
-- Hexagonal Architecture
-- Separation of concerns
-- Maintainability
-- Backend application design
-
----
-
 ## 🎯 What I'm Currently Working On
 
 My professional development is focused on moving beyond implementation and strengthening my ability to design and make architectural decisions.
